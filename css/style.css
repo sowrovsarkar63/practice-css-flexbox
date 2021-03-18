@@ -1,0 +1,19 @@
+.container{
+ border: 5px solid #ffcc5c;
+ display: flex;
+flex-wrap: wrap;
+
+}
+
+/* .container>div{
+    flex: 1;
+    flex-grow,flex-shrink,flex-basis
+}  */
+/* 
+.Search{
+    flex:2 ;
+} */
+.container>div{
+    width: 360px;
+
+}
